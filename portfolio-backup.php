@@ -4,8 +4,8 @@
       <div class="col-lg-12">
         <div class="row">
           <div class="col-md-12 col-lg-8">
-            <h2 class="heading">Portfolio</h2>
-            <p>Put your portfolio or gallery images here for example. Able an hope of body. Any nay shyness article matters own removal nothing his forming. Gay own additions education satisfied the perpetual. If he cause manor happy. Without farther she exposed saw man led. Along on happy could cease green oh. </p>
+            <h2 class="heading">My Work</h2>
+            <p>Here are some of my accomplished web projects.</p>
           </div>
         </div>
         <div class="row">

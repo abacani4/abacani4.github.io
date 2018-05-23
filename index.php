@@ -28,9 +28,9 @@
   <body>
     
     <?php include 'header-banner.php'; ?>
-    <?php include 'header-nav.php'; ?>
+    <?php //include 'header-nav.php'; ?>
     <?php include 'about.php'; ?>
-    <?php //include 'portfolio.php'; ?>
+    <?php include 'portfolio.php'; ?>
     <?php //include 'other-details.php'; ?>
     <?php //include 'contact.php'; ?>
     <?php include 'footer.php'; ?>
