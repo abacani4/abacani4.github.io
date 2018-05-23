@@ -4,13 +4,13 @@ $(function () {
     // Navbar
     // ---------------------------------------------- //
 
-    $(document).scroll(function () {
+    /*$(document).scroll(function () {
         if ($(window).scrollTop() >= $('header').offset().top) {
             $('nav').addClass('sticky');
         } else {
             $('nav').removeClass('sticky');
         }
-    });
+    });*/
 
 
     // ---------------------------------------------- //
